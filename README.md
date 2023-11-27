@@ -8,49 +8,49 @@ Welcome to the virtual art gallery web application—a gateway to an immersive e
 
 ### 1. Geographic Distribution of Artwork Origins
 &nbsp;
-![1](https://github.com/lingzix/Demo_gif/blob/main/Map.gif)
+![1](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Map.gif)
 
 ### 2. Search by selection filters
 &nbsp;
-![2](https://github.com/lingzix/Demo_gif/blob/main/Filter_search.gif)
+![2](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Filter_search.gif)
 
 ### 3. Search by user-input keywords
 &nbsp;
-![3](https://github.com/lingzix/Demo_gif/blob/main/Keyword_search.gif)
+![3](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Keyword_search.gif)
 
 ### 4. Search by user height/birth year
 &nbsp;
 User can find artworks with the same height as themselves, or were created within the year they were born.
 
-![4](https://github.com/lingzix/Demo_gif/blob/main/Naughty_search.gif)
+![4](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Naughty_search.gif)
 
 ### 5. Artwork Detail & Similar Artworks
 &nbsp;
 Detail is dynamically fetched from our database instance. A section of color palette is automatically generated based on each artwork for aesthetic inspirations. 4 similar artworks are recommended to users at the bottom. The algorithm utilizes the facts of shared artists/exhibition/style/theme/etc. Users can continue exploring similar artworks by a simple click.
 
-![5](https://github.com/lingzix/Demo_gif/blob/main/Artwork_similar.gif)
+![5](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Artwork_similar.gif)
 
 ### 6. Word cloud
 &nbsp;
 User can view frequency of each keyword by hovering the mouse over the cloud.
 
-![6](https://github.com/lingzix/Demo_gif/blob/main/Word_cloud.gif)
+![6](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Word_cloud.gif)
 
 ### 7. Collections by style
 &nbsp;
-![7](https://github.com/lingzix/Demo_gif/blob/main/Collection.gif)
+![7](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Collection.gif)
 
 ### 8. Portraits across time
 &nbsp;
 Loads 6 portraits initially, each from a century between 1400 - 2000. A shuffle button allows users to shuffle and load new portraits from each century. The purpose is for users to get a glimpse of the historical evolution of portrait painting styles over time.
 
-![8](https://github.com/lingzix/Demo_gif/blob/main/Portraits.gif)
+![8](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Portraits.gif)
 
 ### 9. Distribution by type
 &nbsp;
 Users can select a term type from the menu (eg. style/school/theme/technique/keyword/place), and the chart will return the most common terms within that type.
 
-![9](https://github.com/lingzix/Demo_gif/blob/main/Bar_chart.gif)
+![9](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Bar_chart.gif)
 
 
 ## Local Setup
