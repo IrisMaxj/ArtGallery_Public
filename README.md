@@ -35,7 +35,6 @@ Detail is dynamically fetched from our database instance. A section of color pal
 User can view frequency of each keyword by hovering the mouse over the cloud.
 
 ![6](https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Demo/GIFs/Word_cloud.gif)
-https://github.com/IrisMaxj/ArtGallery_Public/blob/main/Demo/GIFs/Word_cloud.gif
 
 ### 7. Collections by style
 &nbsp;
